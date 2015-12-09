@@ -48,8 +48,8 @@
       <file leaf-file-name="welcome.clj" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/clojurebreaker/views/welcome.clj">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.52920353">
-              <caret line="20" column="39" selection-start-line="20" selection-start-column="39" selection-end-line="20" selection-end-column="39" />
+            <state vertical-scroll-proportion="0.33628318">
+              <caret line="10" column="2" selection-start-line="10" selection-start-column="2" selection-end-line="10" selection-end-column="2" />
               <folding />
             </state>
           </provider>
@@ -701,12 +701,12 @@
       <updated>1449158392330</updated>
       <workItem from="1449158396033" duration="1063000" />
       <workItem from="1449160951188" duration="30200000" />
-      <workItem from="1449496983872" duration="8618000" />
+      <workItem from="1449496983872" duration="8741000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="39881000" />
+    <option name="totallyTimeSpent" value="40004000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -943,8 +943,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/clojurebreaker/views/welcome.clj">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.52920353">
-          <caret line="20" column="39" selection-start-line="20" selection-start-column="39" selection-end-line="20" selection-end-column="39" />
+        <state vertical-scroll-proportion="0.33628318">
+          <caret line="10" column="2" selection-start-line="10" selection-start-column="2" selection-end-line="10" selection-end-column="2" />
           <folding />
         </state>
       </provider>

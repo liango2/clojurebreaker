@@ -8,9 +8,9 @@
     [hiccup.page :only [include-css html5]]
     [hiccup.form]
     ))
-
+  
 (defpartial board [{:keys [one two three four exact unordered]}]
-            [:h1 "这是一个web版的Cojure电码破解游戏"]
+            [:h1 "这是一个由Clojure代码编写的web版彩钉电码破解游戏"]
             [:p  "在这个游戏中, 程序创建了一个正序(N-orderd)的彩钉(r,g,b,y)密码.然后由人类玩家提交猜测的结果."]
             [:ul "程序 对 玩家猜测的结果计分规则如下:"]
             [:li "每当有一个颜色和位置都正确的彩钉, 就得到一枚黑色钉."]
