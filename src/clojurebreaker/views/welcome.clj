@@ -18,7 +18,7 @@
             [:p  "全都猜对了, 或者是 猜错次数达到了上限, 游戏结束."]
 
             [:line]
-            [:p "请输入(r,g,b,y):"]
+            [:p "请输由(r,g,b,y)组成的任意组合:"]
             (form-to [:post "/guess"]
                      (text-field "one" one)
                      (text-field "two" two)
